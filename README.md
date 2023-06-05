@@ -1,4 +1,4 @@
-## Usando a <strong>tecnologia</strong> e <strong>criatividade</strong> para resolver problemas cada vez maiores.
+## Tentando fazer coisas interessantes no meu computador
 <h3>
   📚 Estudando:<strong> Análise e Desenvolvimento de Sistemas (3/5).</strong>
 </h3>
