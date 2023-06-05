@@ -2,7 +2,7 @@
 <h3>
   📚 Estudando:<strong> Análise e Desenvolvimento de Sistemas (3/5).</strong>
 </h3>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="4000px" width="350px" align="right" alt="Computador iuriCode">
+<img src="https://cdn.discordapp.com/attachments/818280699575402506/1115425668113641542/computacao-em-nuvem.png" min-width="400px" max-width="4000px" width="350px" align="right" alt="Computador iuriCode">
 
 <h3>
   🎯 Objetivo atual: <strong>Primeira experiência profissional.</strong>
