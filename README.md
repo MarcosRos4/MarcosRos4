@@ -1,4 +1,4 @@
-## Tentando fazer coisas interessantes no meu computador
+## Tentando fazer coisas interessantes no meu computador :robot:
 <h3>
   📚 Estudando:<strong> Análise e Desenvolvimento de Sistemas (3/5).</strong>
 </h3>
