@@ -1,6 +1,6 @@
 ## Tentando fazer coisas interessantes no meu computador :robot:
 <h3>
-  📚 Estudando:<strong> Análise e Desenvolvimento de Sistemas (3/5).</strong>
+  📚 Estudando:<strong> Análise e Desenvolvimento de Sistemas (4/5).</strong>
 </h3>
 <img src="https://cdn.discordapp.com/attachments/818280699575402506/1115425668113641542/computacao-em-nuvem.png" min-width="400px" max-width="4000px" width="350px" align="right" alt="Computador iuriCode">
 
